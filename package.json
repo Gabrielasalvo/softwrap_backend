@@ -1,0 +1,9 @@
+{
+  "name": "softwrap",
+  "version": "1.0.0",
+  "description": "typescript, backend, CRUD",
+  "main": "index.js",
+  "repository": "git@github.com:Gabrielasalvo/softwrap_backend.git",
+  "author": "Gabriela Salvo",
+  "license": "MIT"
+}
